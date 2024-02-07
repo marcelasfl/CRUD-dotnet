@@ -1,4 +1,5 @@
 ##CRUD de Produtos e Categorias em Blazor com .NET##
+
 Este é um CRUD (Create, Read, Update, Delete) de produtos e categorias desenvolvido em Blazor utilizando o framework .NET. O projeto foi construído seguindo as aulas disponíveis no balta.io, uma plataforma de ensino online que oferece cursos de desenvolvimento de software.
 
 Funcionalidades
